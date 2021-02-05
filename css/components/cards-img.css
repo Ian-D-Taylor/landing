@@ -1,0 +1,23 @@
+
+
+.card-img img {
+    height: 80px;
+    display: inline;
+    text-align: center;
+    border-color: lightgray;
+}
+.card-img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    display: inline-block;
+    padding: 30px;
+    box-shadow: 2px;   
+}
+.center-work h2 {
+    text-align: center;
+}
+.images-to-center {
+    display: flex;
+    justify-content: space-around;
+}
